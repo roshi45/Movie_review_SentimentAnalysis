@@ -50,8 +50,6 @@ To deploy the app on Render, follow these steps:
 
 │    └── index.html       # Frontend HTML page
 
-├── static               # CSS, JavaScript, images, etc.
-
 ├── logistic_regression_model.pkl  # Saved machine learning model
 
 ├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
