@@ -18,6 +18,8 @@ A live version of the web application is available at: https://movie-review-sent
 
 **Installation and Setup Instructions 🛠️**
 
+->Dataset : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
+
 ->Clone the repository: https://github.com/roshi45/Movie_review_SentimentAnalysis.git
 
 ->Navigate to the project directory: cd Movie_review_SentimentAnalysis
