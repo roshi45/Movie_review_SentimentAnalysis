@@ -18,13 +18,13 @@ A live version of the web application is available at: https://movie-review-sent
 
 **Installation and Setup Instructions 🛠️**
 
-->Clone the repository:
+->Clone the repository: https://github.com/roshi45/Movie_review_SentimentAnalysis.git
 
-->Navigate to the project directory:
+->Navigate to the project directory: cd Movie_review_SentimentAnalysis
 
-->Install the dependencies:
+->Install the dependencies: pip install -r requirements.txt
 
-->Run the Flask app locally:
+->Run the Flask app locally: python app.py
 
 **Deployment 🖥️**
 
